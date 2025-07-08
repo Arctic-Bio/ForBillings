@@ -10,7 +10,7 @@ This document outlines an advanced strategy for upgrading educational platforms 
 
 
 #UPDATE
-I have recently decided to create project XTEND-AI a full prebuilt setup for a safe academic AI that encourages critical thinking and works as a tutor and guiding hand, not an Ai for solving problems for you. It can be found here (https://github.com/Arctic-Bio/XTEND-AI)
+I have recently decided to create project XTEND-AI a full prebuilt setup for a safe academic AI that encourages critical thinking and works as a tutor and guiding hand, not an AI for solving problems for you. It can be found here (https://github.com/Arctic-Bio/XTEND-AI)
 
 ---
 
