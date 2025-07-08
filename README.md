@@ -209,8 +209,6 @@ This is a work in progress. PRs, issues, and audits welcome. To contribute:
 ---
 
 ## 📫 Contact
-
-**Your Name / Org**
 Brytankelly.com
 
 
