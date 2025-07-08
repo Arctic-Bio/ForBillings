@@ -6,6 +6,8 @@
 
 This document outlines an advanced strategy for upgrading educational platforms such as Acellus using local AI integration, ethical tutoring agents, content protection, and military-grade anti-tampering techniques. It addresses the obsolescence of legacy security methods, harnesses client-side inference via WebLLM, and offers modular, scalable defenses with negligible server costs.
 
+> ⚠️ Author's Note: I am a 17-year-old student currently using the Acellus system. I created this solution after closely analyzing its limitations, particularly with respect to modern AI tools. While I initially considered submitting this project to the science fair, I ultimately chose not to, as I felt it may be judged unfairly due to its critique of the very system it relates to.
+
 ---
 
 ## 🚩 Motivation
@@ -119,6 +121,8 @@ window.addEventListener('resize', () => {
 
 > Also consider measuring the aspect ratio of the window on a set interval.
 
+> 🛠️ Additionally, **utilizing a JavaScript obfuscator** is strongly recommended. This makes it significantly more difficult for attackers to reverse-engineer or modify client-side logic, especially for validation or AI input interception code.
+
 ---
 
 ### 5. **Encrypted Heartbeat System (Anti-Tamper)**
@@ -205,5 +209,8 @@ This is a work in progress. PRs, issues, and audits welcome. To contribute:
 ---
 
 ## 📫 Contact
+
+**Your Name / Org**
 Brytankelly.com
+
 
