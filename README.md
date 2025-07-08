@@ -8,6 +8,10 @@ This document outlines an advanced strategy for upgrading educational platforms 
 
 > ⚠️ Author's Note: I am a 17-year-old student currently using the Acellus system. I created this solution after closely analyzing its limitations, particularly with respect to modern AI tools. While I initially considered submitting this project to the science fair, I ultimately chose not to, as I felt it may be judged unfairly due to its critique of the very system it relates to.
 
+
+#UPDATE
+I have recently decided to create project XTEND-AI a full prebuilt setup for a safe academic AI that encourages critical thinking and works as a tutor and guiding hand, not an Ai for solving problems for you. It can be found here (https://github.com/Arctic-Bio/XTEND-AI)
+
 ---
 
 ## 🚩 Motivation
